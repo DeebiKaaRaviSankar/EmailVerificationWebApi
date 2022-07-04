@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h5Yc1TW6g1XmWNwcgPT4H61ccKTxBjr554tE5RzwY28=",
+  "Source": "VerifyEmailResetPassword",
+  "BasePath": "_content/VerifyEmailResetPassword",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
