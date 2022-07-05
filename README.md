@@ -1,4 +1,4 @@
-# EmailVerificationWebApi
+# ROLE BASED AUTHORIZATION
 
 Email Verification with JWT and refresh token
 
